@@ -12,12 +12,18 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   Ihave windows already installed
+   ![alt text](image-10.png)
 
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+   ![alt text](image-11.png)
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   here is the link of the intialized git repository
+   https://github.com/Patrickojil/dev.git
+
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
@@ -53,6 +59,9 @@ clicked on the above link and followed te prompts on how to install mysql server
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process.
+    first went and downloaded git linked it with github created files in vim editor
+    and init,add. then commited.linked using git remote and files were sucessfully uploaded to github account.downloaded visual studio as my code editor and downloaded various extensions such as python and etc.Went to python.org and downloaded the latest version.successfully downloaded both mysql server and workbench.i did not encounter any problems while setting my environment
+     
 
 
 #Deliverables:
